@@ -1,0 +1,10 @@
+Install Django and djangorestframework through command propmt or Virtual environment
+
+
+pip install Django
+pip install djangorestframework
+
+Faker is option if you really want to create dummy data again then install faker and check in the repository dummy.py file
+crossverify the path once and run in command propmt it will create or add dummy data in database.
+
+pip install Faker
